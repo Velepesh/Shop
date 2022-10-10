@@ -1,0 +1,29 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4bd256f4a61b007cd8d71a722bfcf2df:3905081b4cc0b6781eb2776523c7e389:2e97c611a7b13175fc3d613ea546e765$
+#
+:format=40300
+:texture=Zombie.png
+:size=1024x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Idle_000;1;322;75;189; 0.5;0.5; 0;0;0;0
+Idle_001;78;322;75;189; 0.5;0.5; 0;0;0;0
+Idle_002;155;322;75;189; 0.5;0.5; 0;0;0;0
+Idle_003;232;322;75;189; 0.5;0.5; 0;0;0;0
+Idle_004;309;322;75;189; 0.5;0.5; 0;0;0;0
+Idle_005;386;322;75;189; 0.5;0.5; 0;0;0;0
+Idle_006;463;322;75;189; 0.5;0.5; 0;0;0;0
+jump_000;540;312;92;199; 0.5;0.5; 0;0;0;0
+jump_001;634;312;92;199; 0.5;0.5; 0;0;0;0
+jump_002;728;312;92;199; 0.5;0.5; 0;0;0;0
+jump_003;822;312;92;199; 0.5;0.5; 0;0;0;0
+jump_004;916;312;92;199; 0.5;0.5; 0;0;0;0
+jump_005;1;111;92;199; 0.5;0.5; 0;0;0;0
+jump_006;95;111;92;199; 0.5;0.5; 0;0;0;0

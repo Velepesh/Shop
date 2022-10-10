@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 243c296a8816d3645a90c8855f8bca96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7847454977987465790
+    second: BarabarianIcon
+  - first:
+      213: -3707809295820884803
+    second: BlueIcon
+  - first:
+      213: -6607481639469755784
+    second: button_yellow
+  - first:
+      213: 4132630681818749342
+    second: character_list_frame_dim
+  - first:
+      213: 3933091648849913913
+    second: character_list_frame_purple
+  - first:
+      213: 4933257732985599955
+    second: character_lv_bar_yellow
+  - first:
+      213: 7744369060106610283
+    second: character_select_add_bg
+  - first:
+      213: 203141838635496558
+    second: clan_list_focus
+  - first:
+      213: 5109442575417320429
+    second: clan_symbol_s_2
+  - first:
+      213: -7793081441082546963
+    second: clan_symbol_s_3
+  - first:
+      213: -8071198441688604754
+    second: common_bg
+  - first:
+      213: 3652337660083670606
+    second: common_tab_bg
+  - first:
+      213: -4582140967812978305
+    second: equipment_lock_icon
+  - first:
+      213: -2990694626449399638
+    second: GreenIcon
+  - first:
+      213: -2555867807565579600
+    second: JohnIcon
+  - first:
+      213: -4274051472841485391
+    second: Orange
+  - first:
+      213: 8705548817716453580
+    second: pass_icon_check
+  - first:
+      213: 3196530397463877781
+    second: PurpleIcon
+  - first:
+      213: -5294769891216656079
+    second: RedIcon
+  - first:
+      213: 2736890414802849906
+    second: RobotIcon
+  - first:
+      213: -8357163311706690182
+    second: shop_frame_blue
+  - first:
+      213: 6940426803374145274
+    second: SpaceManIcon
+  - first:
+      213: -4556248854433817160
+    second: VikingIcon
+  - first:
+      213: -5165501833912969471
+    second: YellowIcon
+  - first:
+      213: 4595622163682849448
+    second: ZombieIcon
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarabarianIcon
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 794
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3250d199b2c7ec60800000000000000
+      internalID: 7847454977987465790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db474bb17173b8cc0800000000000000
+      internalID: -3707809295820884803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_yellow
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 55
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 72, z: 27, w: 73}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8725d73f4728d44a0800000000000000
+      internalID: -6607481639469755784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_list_frame_dim
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 109, z: 32, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99dfa1a5bd0a5930800000000000000
+      internalID: 4132630681818749342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_list_frame_purple
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 36
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 109, z: 32, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93821c62406259630800000000000000
+      internalID: 3933091648849913913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_select_add_bg
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 114
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 50, z: 40, w: 41}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662e25f0a6897b60800000000000000
+      internalID: 7744369060106610283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clan_list_focus
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 93
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 56, y: 56, z: 56, w: 56}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6473ea0d64b1d200800000000000000
+      internalID: 203141838635496558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clan_symbol_s_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a10c83f268e640800000000000000
+      internalID: 5109442575417320429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clan_symbol_s_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4e59608b969d390800000000000000
+      internalID: -7793081441082546963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 4
+        height: 585
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4991453}
+      border: {x: 2, y: 146, z: 2, w: 146}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafd673c7c75dff80800000000000000
+      internalID: -8071198441688604754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: equipment_lock_icon
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 107
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f792eb62117f860c0800000000000000
+      internalID: -4582140967812978305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenIcon
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa060d6251bee76d0800000000000000
+      internalID: -2990694626449399638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JohnIcon
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 794
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba723545cbb78cd0800000000000000
+      internalID: -2555867807565579600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 478
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b35c8194d48fa4c0800000000000000
+      internalID: -4274051472841485391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pass_icon_check
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 52
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0afc6968250d870800000000000000
+      internalID: 8705548817716453580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleIcon
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 205
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5989296e57b5c5c20800000000000000
+      internalID: 3196530397463877781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedIcon
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 751
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f89a36d23586b0800000000000000
+      internalID: -5294769891216656079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotIcon
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 248
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270de73e4536bf520800000000000000
+      internalID: 2736890414802849906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_frame_blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 61
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5409836, y: 0.5}
+      border: {x: 33, y: 134, z: 28, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dabc30f34650c80800000000000000
+      internalID: -8357163311706690182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceManIcon
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 18
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe37bcd769515060800000000000000
+      internalID: 6940426803374145274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingIcon
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 521
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd11339ec3f4c0c0800000000000000
+      internalID: -4556248854433817160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowIcon
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 478
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1071df633737058b0800000000000000
+      internalID: -5165501833912969471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieIcon
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 291
+        width: 150
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a27a3c520ee6cf30800000000000000
+      internalID: 4595622163682849448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a5df59a1e8ad5b4eaed1308989741a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

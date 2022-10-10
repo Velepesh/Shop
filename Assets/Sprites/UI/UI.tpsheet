@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d531f5cd505cf1cb4e8c97890dbbdd22:3098cc4fae01578659eae254f08853c8:64d56465927d50bb5400e4c66dc46a97$
+#
+:format=40300
+:texture=UI.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=enabled
+:alphahandling=ClearTransparentPixels
+
+BarabarianIcon;277;794;150;230; 0.5;0.5; 0;0;0;0
+BlueIcon;0;166;273;273; 0.5;0.5; 0;0;0;0
+button_yellow;61;21;55;145; 0.5;0.5; 28;27;73;72
+character_list_frame_dim;116;36;65;130; 0.5;0.5; 33;32;21;109
+character_list_frame_purple;181;36;65;130; 0.5;0.5; 33;32;21;109
+character_select_add_bg;530;114;80;91; 0.5;0.5; 40;40;41;50
+clan_list_focus;348;93;112;112; 0.5;0.5; 56;56;56;56
+clan_symbol_s_2;348;1;102;92; 0.5;0.5; 0;0;0;0
+clan_symbol_s_3;450;1;102;92; 0.5;0.5; 0;0;0;0
+common_bg;0;439;4;585; 0.5;0.4991453; 2;2;146;146
+equipment_lock_icon;460;107;70;98; 0.5;0.5; 0;0;0;0
+GreenIcon;4;751;273;273; 0.5;0.5; 0;0;0;0
+JohnIcon;427;794;150;230; 0.5;0.5; 0;0;0;0
+Orange;4;478;273;273; 0.5;0.5; 0;0;0;0
+pass_icon_check;246;52;102;114; 0.5;0.5; 0;0;0;0
+PurpleIcon;273;205;273;273; 0.5;0.5; 0;0;0;0
+RedIcon;610;751;273;273; 0.5;0.5; 0;0;0;0
+RobotIcon;546;248;150;230; 0.5;0.5; 0;0;0;0
+shop_frame_blue;0;2;61;164; 0.54098361;0.5; 33;28;30;134
+SpaceManIcon;610;18;150;230; 0.5;0.5; 0;0;0;0
+VikingIcon;550;521;150;230; 0.5;0.5; 0;0;0;0
+YellowIcon;277;478;273;273; 0.5;0.5; 0;0;0;0
+ZombieIcon;696;291;150;230; 0.5;0.5; 0;0;0;0

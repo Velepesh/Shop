@@ -1,0 +1,29 @@
+version: 2
+tpsheetFileNames:
+- Assets/Sprites/Characters/Barbarian.tpsheet
+- Assets/Sprites/Characters/JohnWickSprites.tpsheet
+- Assets/Sprites/Characters/Robot.tpsheet
+- Assets/Sprites/Characters/SpaceMan.tpsheet
+- Assets/Sprites/Characters/Viking.tpsheet
+- Assets/Sprites/Characters/Zombie.tpsheet
+- Assets/Sprites/UI/UI.tpsheet
+- Assets/Sprites/UI/UIGlow.tpsheet
+textureFileNames:
+- Assets/Sprites/Characters/Barbarian.png
+- Assets/Sprites/Characters/JohnWickSprites.png
+- Assets/Sprites/Characters/Robot.png
+- Assets/Sprites/Characters/Vikings.png
+- Assets/Sprites/Characters/Viking.png
+- Assets/Sprites/Characters/Zombie.png
+- Assets/Sprites/UI/UI.png
+- Assets/Sprites/UI/UIGlow.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

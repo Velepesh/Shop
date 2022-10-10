@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3eb748d0c45c94f93fb5b04fa3e60345:68e61a1310dcf3b76030993c71eb3d35:77e2b796b7b6e4986c463c5023fd00d9$
+#
+:format=40300
+:texture=Viking.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Viking1_Jump_0;1;767;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_1;1;509;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_2;259;767;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_3;1;251;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_4;259;509;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_5;517;767;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_6;259;251;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_7;517;509;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_8;775;767;256;256; 0.5;0; 0;0;0;0
+Viking1_Jump_9;517;251;256;256; 0.5;0; 0;0;0;0
+Viking1_Stand_0;775;509;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_1;1033;767;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_2;775;251;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_3;1033;509;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_4;1291;767;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_5;1033;251;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_6;1291;509;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_7;1549;767;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_8;1291;251;256;256; 0.47851563;0.23242187000000003; 0;0;0;0
+Viking1_Stand_9;1549;509;256;256; 0.47851563;0.23242187000000003; 0;0;0;0

@@ -78,7 +78,7 @@ TextureImporter:
       213: 4595622163682849448
     second: ZombieIcon
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -99,6 +99,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,6 +138,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -184,6 +186,30 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -682,6 +708,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      VikingIcon: -4556248854433817160
+      clan_symbol_s_2: 5109442575417320429
+      character_list_frame_dim: 4132630681818749342
+      equipment_lock_icon: -4582140967812978305
+      RedIcon: -5294769891216656079
+      ZombieIcon: 4595622163682849448
+      clan_symbol_s_3: -7793081441082546963
+      clan_list_focus: 203141838635496558
+      common_bg: -8071198441688604754
+      PurpleIcon: 3196530397463877781
+      BarabarianIcon: 7847454977987465790
+      shop_frame_blue: -8357163311706690182
+      character_list_frame_purple: 3933091648849913913
+      character_select_add_bg: 7744369060106610283
+      RobotIcon: 2736890414802849906
+      SpaceManIcon: 6940426803374145274
+      YellowIcon: -5165501833912969471
+      GreenIcon: -2990694626449399638
+      BlueIcon: -3707809295820884803
+      Orange: -4274051472841485391
+      button_yellow: -6607481639469755784
+      pass_icon_check: 8705548817716453580
+      JohnIcon: -2555867807565579600
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

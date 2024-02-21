@@ -165,7 +165,7 @@ TextureImporter:
       213: -2768948527954521025
     second: idle0017.png
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -186,6 +186,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -224,6 +225,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -271,6 +273,30 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1042,6 +1068,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      jump0003: 8206042390372409201
+      idle0013: 6392286952734070705
+      jump0007: -6614934838937781488
+      idle0010: 5690401257536018324
+      jump0002: 8452840084846129980
+      jump0008: 3988079500741612597
+      idle0003: 4901205273184605283
+      jump0013: 2048566074928344526
+      idle0005: -2847304628930026544
+      jump0015: -3257424630461388892
+      idle0011: 8436909963288274867
+      jump0019: 4674756033232295233
+      jump0001: -2452775450009679999
+      jump0018: 8108816418262153489
+      jump0010: -9100758803323826330
+      jump0006: 3412406224208218760
+      jump0017: 7784421119508831693
+      idle0007: -3927145778121247477
+      jump0011: 6199239016190739339
+      idle0012: 8295693809899816380
+      idle0001: 3217644904375712336
+      jump0014: -5510869336707482474
+      jump0016: -4981603941923932718
+      idle0008: -6368946527799150040
+      jump0009: 4010552164038817104
+      idle0002: 6807293321393954518
+      idle0015: -4761148656338492246
+      idle0004: 987604584135355787
+      idle0016: -493477001518198444
+      idle0006: 5937333991934511538
+      jump0004: -8812466238951931080
+      jump0012: 3821284078469577069
+      idle0009: 8140600576991875299
+      idle0014: 8311588623896146631
+      idle0017: -8241747009942688959
+      jump0005: -2482179767187535582
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

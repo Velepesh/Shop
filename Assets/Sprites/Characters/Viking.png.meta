@@ -63,7 +63,7 @@ TextureImporter:
       213: 777222149017952007
     second: Viking1_Stand_9
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +84,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,6 +123,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -169,6 +171,30 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -604,6 +630,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Viking1_Stand_8: -377895813226185451
+      Viking1_Stand_5: -8188129115007566699
+      Viking1_Jump_2: -3030778277286274066
+      Viking1_Stand_0: 7674568784621958715
+      Viking1_Jump_9: 8524221011199703114
+      Viking1_Stand_2: -3258172052428875381
+      Viking1_Stand_4: -1321505966944571313
+      Viking1_Stand_6: -3863779908048181920
+      Viking1_Stand_9: 777222149017952007
+      Viking1_Jump_1: 61444682261076996
+      Viking1_Jump_8: 1843325482653140787
+      Viking1_Jump_5: 5470869479568871627
+      Viking1_Jump_4: -7616726017717002173
+      Viking1_Jump_0: -6531894672416917415
+      Viking1_Jump_7: -1021662580797691104
+      Viking1_Stand_7: 7588478256738341578
+      Viking1_Jump_3: 8792599211791009164
+      Viking1_Stand_3: 8163391839451433289
+      Viking1_Jump_6: -6844696201028631616
+      Viking1_Stand_1: -2816512421582170609
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
